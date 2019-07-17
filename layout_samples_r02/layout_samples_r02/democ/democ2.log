@@ -1,0 +1,42 @@
+Layout To Allegro PCB Design   Version 16.4.0
+	Copyright 1985-2011 Cadence Design Systems, Inc.
+
+WARNING (Layout To Allegro PCB Design), The gates in package '64CON_SEP._PINS' are not swappable
+because the corresponding pins in the swappable gates
+do not have the same pin names
+
+WARNING (Layout To Allegro PCB Design), The gates in package 'FCT16245' are not swappable
+because the corresponding pins in the swappable gates
+do not have the same pin names
+ Creating padstack definitions.
+ Creating symbols.
+ ...  50 entities converted.
+ ...  100 entities converted.
+ ...  150 entities converted.
+ ...  200 entities converted.
+ Creating independent data.
+ WARNING ERROR(SPMHDB-186): Void must be within the shape.  Can't create void of shape. iges id 90. Continuing.
+	Allegro iges id 90 is the Layout Obstacle named '489'
+ WARNING ERROR(SPMHDB-186): Void must be within the shape.  Can't create void of shape. iges id 94. Continuing.
+	Allegro iges id 94 is the Layout Obstacle named '491'
+ ...  250 entities converted.
+ ...  300 entities converted.
+ ...  350 entities converted.
+ ...  400 entities converted.
+ ...  450 entities converted.
+ ...  500 entities converted.
+ ...  550 entities converted.
+ ...  600 entities converted.
+ ...  650 entities converted.
+ ...  700 entities converted.
+ ...  750 entities converted.
+ ...  800 entities converted.
+
+Netlist Warnings and Errors recorded in 'C:\Users\user\Desktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\democ\netin.log':
+Total Netlist Warnings =  8.
+Total Netlist Errors   =  0.
+Total Device File Warnings =  0.
+Total Device File Errors   =  0.
+
+
+Translate time 1 seconds

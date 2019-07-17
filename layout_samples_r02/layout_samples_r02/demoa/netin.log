@@ -1,0 +1,115 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro NETLIST IN Log File                                      )
+(                                                                     )
+(    Drawing          : demoa3.brd                                    )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Wed Jul 17 13:34:51 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Jul 17 13:34:51 2019				Page     1
+
+
+
+
+Netlist File Name: 'C:\Users\user\Desktop\work\orcad\samples\layout_samples_r0~
+2\layout_samples_r02\demoa\demoa3.txt'      Layout File Name: 'C:\Users\user\D~
+esktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demoa\demoa3.b~
+rd'
+
+===========================================================
+
+$PACKAGES
+'DIP14' ! '7400' ! '7400' ; U1
+'DIP14' ! '7400' ! '7400' ; U2
+'DIP14' ! '7400' ! '7400' ; U3
+'DIP14' ! '7400' ! '7400' ; U4
+$NETS
+'DAT2' ; U1.1 U3.1 U2.1 U4.1
+'DAT1' ; U2.2 U4.2 U1.2 U3.2
+'DAT3' ; U3.3 U1.3 U2.3 U4.3
+'DAT4' ; U2.5 U4.5 U1.5 U3.5
+'DAT5' ; U1.4 U3.4 U2.4 U4.4
+'DAT6' ; U3.6 U1.6 U4.6 U2.6
+'DAT7' ; U2.10 U4.10 U3.10 U1.10
+'DAT8' ; U1.9 U3.9 U2.9 U4.9
+'DAT9' ; U3.8 U1.8 U4.8 U2.8
+'DAT10' ; U1.13 U3.13 U4.13 U2.13
+'DAT11' ; U4.12 U2.12 U1.12 U3.12
+'DAT12' ; U4.11 U2.11 U1.11 U3.11
+'GND' ; U4.7 U2.7 U3.7 U1.7
+'VCC' ; U4.14 U2.14 U3.14 U1.14
+$A_PROPERTIES
+$END
+
+===========================================================
+End of NETLIST IN Syntax/Logic Check
+===========================================================
+
+Total Netlist Warnings =  0.
+Total Netlist Errors   =  0.
+Wed Jul 17 13:34:51 2019				Page     1
+
+Parsing device file: 'C:/Users/user/Desktop/work/orcad/samples/layout_samples_r02/layout_samples_r02/demoa/7400.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 7400)
+PACKAGE DIP14
+PACKAGEPROP VALUE '7400'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 14
+END
+Wed Jul 17 13:34:51 2019				Page     2
+
+Parsing device file: 'C:/Users/user/Desktop/work/orcad/samples/layout_samples_r02/layout_samples_r02/demoa/7400.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 7400)
+PACKAGE DIP14
+PACKAGEPROP VALUE '7400'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 14
+END
+Wed Jul 17 13:34:51 2019				Page     3
+
+Parsing device file: 'C:/Users/user/Desktop/work/orcad/samples/layout_samples_r02/layout_samples_r02/demoa/7400.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 7400)
+PACKAGE DIP14
+PACKAGEPROP VALUE '7400'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 14
+END
+Wed Jul 17 13:34:51 2019				Page     4
+
+Parsing device file: 'C:/Users/user/Desktop/work/orcad/samples/layout_samples_r02/layout_samples_r02/demoa/7400.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 7400)
+PACKAGE DIP14
+PACKAGEPROP VALUE '7400'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 14
+END
+
+
+===========================================================
+
+Total Device File Warnings =  0.
+Total Device File Errors   =  0.
+
+===========================================================
+
+Total Combined Netlist and Device File Warnings =  0.
+Total Combined Netlist and Device File Errors   =  0.
+
+===========================================================
+End of Allegro NETLIST IN Log
+===========================================================

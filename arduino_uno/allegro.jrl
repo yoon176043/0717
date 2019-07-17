@@ -1,0 +1,17 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Thu Jul 11 15:55:01 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=2656 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 4274
+\i (00:00:05) trapsize 4078
+\i (00:00:05) trapsize 4309
+\i (00:00:05) trapsize 4528
+\i (00:00:05) trapsize 3194
+\i (00:00:05) trapsize 3722
+\i (00:00:06) generaledit 
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Thu Jul 11 15:55:06 2019

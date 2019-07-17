@@ -1,0 +1,121 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro NETLIST IN Log File                                      )
+(                                                                     )
+(    Drawing          : demob2.brd                                    )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Wed Jul 17 14:15:28 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Jul 17 14:15:28 2019				Page     1
+
+
+
+
+Netlist File Name: 'C:\Users\user\Desktop\work\orcad\samples\layout_samples_r0~
+2\layout_samples_r02\demob\demob2.txt'      Layout File Name: 'C:\Users\user\D~
+esktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demob\demob2.b~
+rd'
+
+===========================================================
+
+$PACKAGES
+'DIP16' ! '74LS158' ! '74LS158' ; U2
+'DIP16' ! '74LS158' ! '74LS158' ; U1
+'AC300100A' ! 'CAP_NP' ! 'CAP NP' ; C2
+'AC300100A' ! 'CAP_NP' ! 'CAP NP' ; C1
+$NETS
+'GND' ; U1.8 U2.8
+'N01899' ; U1.2 U2.6
+'N01900' ; U1.3 U2.5
+'N01901' ; U1.4 U2.4
+'N01902' ; U2.3 U1.5
+'N01903' ; U1.6 U2.2
+'N01904' ; U1.7 U2.1
+'N01905' ; U1.9 U2.15
+'N01906' ; U1.10 U2.14
+'N01907' ; U1.11 U2.13
+'N01908' ; U1.12 U2.12
+'N01909' ; U1.14 U2.10
+'N01910' ; U1.1 U2.7
+'N01911' ; U1.13 U2.11
+'N01912' ; U1.15 U2.9
+'VCC' ; U2.16 U1.16 C2.1 C1.1
+'GND_SIGNAL' ; C1.2 C2.2
+$A_PROPERTIES
+$END
+
+===========================================================
+End of NETLIST IN Syntax/Logic Check
+===========================================================
+
+Total Netlist Warnings =  0.
+Total Netlist Errors   =  0.
+Wed Jul 17 14:15:28 2019				Page     1
+
+Parsing device file: 'C:/Users/user/Desktop/work/orcad/samples/layout_samples_r02/layout_samples_r02/demob/74ls158.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 74LS158)
+PACKAGE DIP16
+PACKAGEPROP VALUE '74LS158'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 16
+END
+Wed Jul 17 14:15:28 2019				Page     2
+
+Parsing device file: 'C:/Users/user/Desktop/work/orcad/samples/layout_samples_r02/layout_samples_r02/demob/74ls158.txt'.
+
+
+(DEVICE DESCRIPTION FILE: 74LS158)
+PACKAGE DIP16
+PACKAGEPROP VALUE '74LS158'
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 16
+END
+Wed Jul 17 14:15:28 2019				Page     3
+
+Parsing device file: 'C:/Users/user/Desktop/work/orcad/samples/layout_samples_r02/layout_samples_r02/demob/cap_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: CAP_NP)
+PACKAGE AC300100A
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+Wed Jul 17 14:15:28 2019				Page     4
+
+Parsing device file: 'C:/Users/user/Desktop/work/orcad/samples/layout_samples_r02/layout_samples_r02/demob/cap_np.txt'.
+
+
+(DEVICE DESCRIPTION FILE: CAP_NP)
+PACKAGE AC300100A
+PACKAGEPROP HEIGHT '1.0000000'
+CLASS IC
+PINCOUNT 2
+END
+
+
+===========================================================
+
+Total Device File Warnings =  0.
+Total Device File Errors   =  0.
+
+===========================================================
+
+Total Combined Netlist and Device File Warnings =  0.
+Total Combined Netlist and Device File Errors   =  0.
+
+===========================================================
+Wed Jul 17 14:15:28 2019				Page     2
+
+
+
+
+End of Allegro NETLIST IN Log
+===========================================================

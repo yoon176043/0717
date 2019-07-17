@@ -1,0 +1,22 @@
+Layout To Allegro PCB Design   Version 16.4.0
+	Copyright 1985-2011 Cadence Design Systems, Inc.
+
+WARNING (Layout To Allegro PCB Design), The gates in package '7400' are not swappable
+because the corresponding pins in the swappable gates
+do not have the same pin names
+ Creating padstack definitions.
+ Creating symbols.
+ Creating independent data.
+ ...  50 entities converted.
+ ...  100 entities converted.
+ ...  150 entities converted.
+ ...  200 entities converted.
+
+Netlist Warnings and Errors recorded in 'C:\Users\user\Desktop\work\orcad\samples\layout_samples_r02\layout_samples_r02\demoa\netin.log':
+Total Netlist Warnings =  0.
+Total Netlist Errors   =  0.
+Total Device File Warnings =  0.
+Total Device File Errors   =  0.
+
+
+Translate time 1 seconds

@@ -1,0 +1,21 @@
+ Creating padstack definitions.
+ Creating symbols.
+ ...  50 entities converted.
+ ...  100 entities converted.
+ ...  150 entities converted.
+ ...  200 entities converted.
+ Creating independent data.
+ WARNING ERROR(SPMHDB-186): Void must be within the shape.  Can't create void of shape. iges id 90. Continuing.
+ WARNING ERROR(SPMHDB-186): Void must be within the shape.  Can't create void of shape. iges id 94. Continuing.
+ ...  250 entities converted.
+ ...  300 entities converted.
+ ...  350 entities converted.
+ ...  400 entities converted.
+ ...  450 entities converted.
+ ...  500 entities converted.
+ ...  550 entities converted.
+ ...  600 entities converted.
+ ...  650 entities converted.
+ ...  700 entities converted.
+ ...  750 entities converted.
+ ...  800 entities converted.
